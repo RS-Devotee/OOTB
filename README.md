@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-# OOTB (Under Review)
-### 📖**Paper** |
-
-Codes for "**Satellite Video Single Object Tracking: A Systematic Review and an Oriented Object Tracking Benchmark**", 
-=======
 # OOTB
 ### 📖**Paper** |
 
 Benchmark for "**Satellite Video Single Object Tracking: A Systematic Review and An Oriented Object Tracking Benchmark**", ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2024.
->>>>>>> b8b8812 (tools)
 
 - Authors: 
 [Yuzeng Chen](https://github.com/YZCU), 
@@ -20,11 +13,7 @@ Fengqing Liu,
 [Jiang He](https://jianghe96.github.io/),
 [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
 - Wuhan University and Central South University
-<<<<<<< HEAD
-- Download the OOTB dataset on [Baidu Cloud Disk (code:OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w ) to your disk, the organized directory looks like:
-=======
 - Download the OOTB dataset on [Baidu Cloud Disk (code: OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w ) to your disk, the organized directory looks like:
->>>>>>> b8b8812 (tools)
     ```
     --OOTB/
     	|--car_1/
@@ -84,11 +73,7 @@ Email: yuzeng_chen@whu.edu.cn
 
 ## Acknowledgement
 
-<<<<<<< HEAD
-:heart::heart::heart:Our benchmark is implemented base on the following projects. We really appreciate their excellent open-source works!
-=======
 :heart::heart::heart: We really appreciate excellent works, as follows:
->>>>>>> b8b8812 (tools)
 
 - [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html) 
 - [TrackingNet](https://github.com/SilvioGiancola/TrackingNet-devkit)
